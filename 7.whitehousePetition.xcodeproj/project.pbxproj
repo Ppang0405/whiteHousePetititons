@@ -56,15 +56,23 @@
 		48E17B5B24FFBA8800583C62 /* 7.whitehousePetition */ = {
 			isa = PBXGroup;
 			children = (
-				48E17B5C24FFBA8800583C62 /* AppDelegate.swift */,
-				48E17B5E24FFBA8800583C62 /* SceneDelegate.swift */,
+				48E17B7024FFBADC00583C62 /* Support Files */,
 				48E17B6024FFBA8800583C62 /* ViewController.swift */,
 				48E17B6224FFBA8800583C62 /* Main.storyboard */,
+			);
+			path = 7.whitehousePetition;
+			sourceTree = "<group>";
+		};
+		48E17B7024FFBADC00583C62 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				48E17B5C24FFBA8800583C62 /* AppDelegate.swift */,
+				48E17B5E24FFBA8800583C62 /* SceneDelegate.swift */,
 				48E17B6524FFBA8800583C62 /* Assets.xcassets */,
 				48E17B6724FFBA8800583C62 /* LaunchScreen.storyboard */,
 				48E17B6A24FFBA8900583C62 /* Info.plist */,
 			);
-			path = 7.whitehousePetition;
+			name = "Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
